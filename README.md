@@ -1,2 +1,1 @@
-# rustdoc-json
-Rust library with utilities for working with rustdoc JSON.
+This project has moved here: https://github.com/Enselic/cargo-public-api/tree/main/rustdoc-json
